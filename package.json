@@ -1,5 +1,24 @@
 {
-  "dependencies": {
+  "name": "practicas-christian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lKevinDCl/PracticaChristian.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lKevinDCl/PracticaChristian/issues"
+  },
+  "homepage": "https://github.com/lKevinDCl/PracticaChristian#readme",
+  "devDependencies": {
     "jest": "^30.0.4"
   }
 }
